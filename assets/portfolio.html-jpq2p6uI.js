@@ -1,0 +1,8 @@
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as t,d as o,o as r}from"./app-KHejo3ET.js";const a={};function n(m,p){return r(),t("div",null,[o(` ## 介绍
+
+这是一个档案主页的案例。
+
+要使用此布局，你应该在页面 Frontmatter 中设置 \`home: true\` 和 \`portfolio: true\`。
+
+相关配置文档请见 [档案主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html#档案类型主页)。
+ `)])}const c=e(a,[["render",n],["__file","portfolio.html.vue"]]),s=JSON.parse('{"path":"/portfolio.html","title":"关于我","lang":"zh-CN","frontmatter":{"home":true,"portfolio":true,"title":"关于我","icon":"user","welcome":"👋 你好，我是","name":"发和","avatar":"logo.png","titles":["迷路者","前行者","打破者"],"footer":false,"head":[["meta",{"property":"og:url","content":"https://vuepress-theme-hope-docs-demo.netlify.app/portfolio.html"}],["meta",{"property":"og:site_name","content":"林发和"}],["meta",{"property":"og:title","content":"关于我"}],["meta",{"property":"og:type","content":"website"}],["meta",{"property":"og:locale","content":"zh-CN"}],["meta",{"property":"og:updated_time","content":"2026-07-24T03:21:19.000Z"}],["meta",{"property":"article:author","content":"林发和"}],["meta",{"property":"article:modified_time","content":"2026-07-24T03:21:19.000Z"}],["script",{"type":"application/ld+json"},"{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"WebPage\\",\\"name\\":\\"关于我\\"}"]]},"headers":[],"git":{"createdTime":1722596059000,"updatedTime":1784863279000,"contributors":[{"name":"linfahe","email":"15993092628@163.com","commits":3},{"name":"15993092628","email":"15993092628@163.com","commits":1}]},"readingTime":{"minutes":0.29,"words":87},"filePathRelative":"portfolio.md","localizedDate":"2024年8月2日"}');export{c as comp,s as data};
